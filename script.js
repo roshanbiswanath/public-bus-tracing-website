@@ -28,5 +28,5 @@ function setupMap(center) {
     accessToken: mapboxgl.accessToken,
   });
 
-  map.addControl(directions, "top-left");
+  //map.addControl(directions, "top-left");
 }
